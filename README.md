@@ -1,1 +1,1 @@
-# csc-249-p1-simple-rpc-app
+# CSC249-p1-simple_rpc_app
